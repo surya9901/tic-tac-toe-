@@ -1,0 +1,32 @@
+.Nav{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+.box{
+    background-color: wheat;
+    border: 1px solid grey;
+    font-size: 50px;
+    height: 80px;
+    cursor: pointer;
+}
+/* 
+#b1:hover{
+    background-color: blue;
+} */
+.box:hover{
+    background-color: khaki;
+}
+
+.button{
+    margin-top: 20px;
+    border-radius: 50px;
+    background-color: indianred;
+}
+
+.button:hover{
+    background-color: goldenrod;
+}
